@@ -1,5 +1,5 @@
 import React from "react";
-import cn from "classNames";
+import cn from "classnames";
 import styles from "./SectionContainer.module.css";
 import { upperFirst } from "lodash";
 
